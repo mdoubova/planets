@@ -1,0 +1,5 @@
+Go to home directory
+Make a new repository, call it "bio"
+commit changes
+modify one line, add 4th line
+show differences
